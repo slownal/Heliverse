@@ -1,6 +1,3 @@
-Certainly! Here's a template for a README file for the IBM HR Analytics Employee Attrition & Performance dataset:
-
----
 
 # IBM HR Analytics Employee Attrition & Performance Dataset
 
